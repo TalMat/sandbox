@@ -1,0 +1,14 @@
+{
+    "name": "typeorm-calc-params-count",
+    "version": "1.0.0",
+    "description": "Basic TypeScript project template",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "@types/node": "^16.11.9"
+    },
+    "dependencies": {
+        "mssql": "^6.4.1",
+        "typeorm": "0.2.41"
+    }
+}
