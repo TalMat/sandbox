@@ -1,0 +1,10 @@
+{
+    "name": "promise-await-deep",
+    "version": "1.0.0",
+    "description": "Basic TypeScript project template",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "@types/node": "^16.11.9"
+    }
+}
