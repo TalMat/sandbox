@@ -7,7 +7,6 @@
         "strictPropertyInitialization": false,
         "noImplicitAny": true,
         "noImplicitThis": true,
-        "types": ["node"],
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true,
         "esModuleInterop": true
